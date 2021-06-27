@@ -2,7 +2,7 @@
 
 
 int age(int age) {
-    /*  age - doc
+    /*  age
         * Somatório de idade
         * Uma criança quer saber qual é a soma de todas as idades que ela já teve. 
         * Elaborar programa que lê uma idade qualquer e responde rapidamente a essa pergunta 
