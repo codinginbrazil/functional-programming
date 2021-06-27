@@ -44,7 +44,6 @@ __pycache__/
 /config.toml
 /dist/
 /dl/
-/doc/
 /inst/
 /llvm/
 /mingw-build/
